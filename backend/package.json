@@ -1,0 +1,19 @@
+{
+  "name": "sentiment-telegram-carnet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sergey Chuvayev",
+  "license": "ISC",
+  "dependencies": {
+    "@google-cloud/translate": "^2.1.3",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "sentiment": "^5.0.1",
+    "telegram-mtproto": "^2.2.2",
+    "twitter": "^1.7.1"
+  }
+}
